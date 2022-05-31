@@ -30,3 +30,5 @@ Este efeito se aplica em toda a aplicação!
 
 
 Infelizmente a complexidade do projeto e o tempo máximo de 2 sprints, fez com que o mesmo não fosse terminado a tempo. Portanto há muitas features incompletas e páginas sem funcionalidades.
+
+Com isso em mente, acesse o <a href="https://cardapio-digital-capstone.vercel.app/">site</a>.
